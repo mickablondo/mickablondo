@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mickablondo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://www.linkedin.com/in/mickael-blondeau-952b4817/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 🔭 I’m currently working on dApp !
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mickablondo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **mickablondo/mickablondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
