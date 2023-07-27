@@ -6,6 +6,27 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mickablondo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Languages and tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+<img src="https://github.com/plantuml-stdlib/gilbarbara-plantuml-sprites/blob/master/pngs/hardhat-icon.png" title="Hardhat" alt="Hardhat" />&nbsp;
+<img src="https://github.com/plantuml-stdlib/gilbarbara-plantuml-sprites/blob/master/pngs/truffle-icon.png" title="Truffle" alt="Truffle" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+
+### Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :fire: My stats : 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mickablondo&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **mickablondo/mickablondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
