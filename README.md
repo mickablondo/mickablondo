@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/mickael-blondeau-952b4817/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mickael-blondeau-952b4817/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+[Online CV](https://mickael-blondeau.vercel.app/)  
 
 🔭 I’m currently working on dApp !
 
