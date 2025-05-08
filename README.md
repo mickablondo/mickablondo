@@ -26,7 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: My stats : 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mickablondo&theme=dark&background=000000&locale=fr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mickablondo&theme=dark&background=000000&locale=fr)](https://git.io/streak-stats)
 
 <!--
 **mickablondo/mickablondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
