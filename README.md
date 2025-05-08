@@ -5,6 +5,8 @@
 
 🔭 I’m currently working on dApp !
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=700&lines=Hi%2C+I'm+MiK%40+—+a+blockchain+and+Java+developer.)](https://git.io/typing-svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mickablondo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages and tools
@@ -25,8 +27,15 @@
 ### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### :fire: My stats :  
+[![Micka Stats](https://github-readme-stats.vercel.app/api?username=mickablondo&show_icons=true&theme=dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!-- 
 ### :fire: My stats : 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mickablondo&theme=dark&background=000000&locale=fr)](https://git.io/streak-stats)
+-->
 
 <!--
 **mickablondo/mickablondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
