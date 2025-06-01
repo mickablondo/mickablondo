@@ -30,7 +30,7 @@
 ### :fire: My stats :  
 [![Micka Stats](https://github-readme-stats.vercel.app/api?username=mickablondo&show_icons=true&theme=dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![visitors](https://komarev.com/ghpvc/?username=mickablondo&style=flat-square&color=blue)
 
 <!-- 
 ### :fire: My stats : 
