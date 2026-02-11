@@ -25,7 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
 
 ### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ### :fire: My stats :  
 [![Micka Stats](https://github-readme-stats.vercel.app/api?username=mickablondo&show_icons=true&theme=dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
