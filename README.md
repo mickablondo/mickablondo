@@ -28,7 +28,8 @@
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 ### :fire: My stats :  
-[![Micka Stats](https://github-readme-stats.vercel.app/api?username=mickablondo&show_icons=true&theme=dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats-fast.vercel.app/api/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)  
+[![Streak card](https://github-readme-stats-fast.vercel.app/api/streak/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)  
 
 ![visitors](https://komarev.com/ghpvc/?username=mickablondo&style=flat-square&color=blue)
 
