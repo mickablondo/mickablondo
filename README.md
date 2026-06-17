@@ -7,7 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=700&lines=Hi%2C+I'm+MiK%40+—+a+blockchain+and+Java+developer.)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mickablondo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=mickablondo&theme=onedark)](https://trophygithubreadmelang.cybee.dpdns.org)
 
 ### Languages and tools
