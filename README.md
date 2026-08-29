@@ -1,11 +1,6 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+MiK%40%2C+a+blockchain+and+Java+developer.)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/mickael-blondeau-952b4817/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-[Online CV](https://mickael-blondeau.vercel.app/)  
-
-🔭 I’m currently working on dApp !
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=700&lines=Hi%2C+I'm+MiK%40+—+a+blockchain+and+Java+developer.)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/mickablondo/terra-aventura-radar/main/datas/images/terra-aventura-radar.png" width="100" alt="Terra Aventura Radar" /> 🔭 I’m currently working on [Terra Aventura Radar](https://terra-aventura-radar.vercel.app/) !
 
 [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=mickablondo&theme=onedark)](https://trophygithubreadmelang.cybee.dpdns.org)
 
@@ -31,7 +26,13 @@
 [![Stats](https://github-readme-stats-fast.vercel.app/api/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)  
 [![Streak card](https://github-readme-stats-fast.vercel.app/api/streak/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)  
 
-![visitors](https://komarev.com/ghpvc/?username=mickablondo&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mickablondo&style=flat-square&color=blue" alt="visitors" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mickael-blondeau-952b4817/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mickael-blondeau.vercel.app/"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 <!-- 
 ### :fire: My stats : 
