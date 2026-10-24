@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+MiK%40%2C+a+blockchain+and+Java+developer.)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=700&center=true&lines=Hi+there+%F0%9F%91%8B+I'm+MiK%40%2C+a+blockchain+and+Java+developer.)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/mickablondo/terra-aventura-radar/main/datas/images/terra-aventura-radar.png" width="100" alt="Terra Aventura Radar" /> 🔭 I’m currently working on [Terra Aventura Radar](https://terra-aventura-radar.vercel.app/) !
 
