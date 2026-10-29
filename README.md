@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E6,50:7B2FF7,100:00F7FF&height=230&section=header&text=MiK%40&fontSize=80&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Blockchain%20%C3%97%20Java%20%C3%97%20Web3&descSize=20&descAlignY=60" alt="header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%3E_+Hi+there+%F0%9F%91%8B+I'm+MiK%40;Blockchain+%26+Java+developer;Solidity+%C2%B7+Go+%C2%B7+React+%C2%B7+Next.js;Currently+hacking+Terra+Aventura+Radar+%F0%9F%94%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%3E_+Hi+there+%F0%9F%91%8B+I'm+MiK%40;Blockchain+%26+Java+developer;Currently+hacking+Terra+Aventura+Radar+%F0%9F%94%AD" alt="Typing SVG" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E6,100:00F7FF&height=3" width="100%" alt="" />
