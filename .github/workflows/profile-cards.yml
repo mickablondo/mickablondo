@@ -1,18 +1,20 @@
 name: Profile summary cards
-
+ 
 on:
   schedule:
     - cron: "15 2 * * *"
   workflow_dispatch:
-
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   generate:
     runs-on: ubuntu-24.04
     name: generate-github-profile-summary-cards
     steps:
+      - uses: actions/checkout@v5
+ 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           # Si le workflow échoue avec "Resource not accessible by integration",
