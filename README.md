@@ -54,9 +54,9 @@
 <!--CHAIN:START-->
 | ⛓️ Block | ⛽ Gas | 💎 ETH |
 |:-:|:-:|:-:|
-| `#26300757` | `0.19 gwei` | `$2,316` · `2,072€` |
+| `#26300769` | `0.17 gwei` | `$2,315` · `2,072€` |
 
-<sub>⏱️ Dernier scan : 2026-10-29 20:21 UTC</sub>
+<sub>⏱️ Dernier scan : 2026-10-29 20:24 UTC</sub>
 <!--CHAIN:END-->
 
 <br />
