@@ -48,19 +48,6 @@
 
 <br />
 
-## `> live_chain_feed`
-
-<!-- Mis à jour automatiquement par .github/workflows/chain-stats.yml -->
-<!--CHAIN:START-->
-| ⛓️ Block | ⛽ Gas | 💎 ETH |
-|:-:|:-:|:-:|
-| `#26300769` | `0.17 gwei` | `$2,315` · `2,072€` |
-
-<sub>⏱️ Dernier scan : 2026-10-29 20:24 UTC</sub>
-<!--CHAIN:END-->
-
-<br />
-
 ## `> arsenal`
 
 <p align="center">
@@ -150,9 +137,9 @@
 ### Top languages
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
-### :fire: My stats :  
-[![Stats](https://github-readme-stats-fast.vercel.app/api/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)  
-[![Streak card](https://github-readme-stats-fast.vercel.app/api/streak/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)  
+### :fire: My stats :
+[![Stats](https://github-readme-stats-fast.vercel.app/api/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Streak card](https://github-readme-stats-fast.vercel.app/api/streak/?username=mickablondo&layout=compact&theme=vision-friendly-dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mickablondo&style=flat-square&color=blue" alt="visitors" />
@@ -162,8 +149,8 @@
   <a href="https://mickael-blondeau.vercel.app/"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p> -->
 
-<!-- 
-### :fire: My stats : 
+<!--
+### :fire: My stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=mickablondo&theme=dark&background=000000&locale=fr)](https://git.io/streak-stats)
 -->
 
