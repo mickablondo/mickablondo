@@ -54,9 +54,9 @@
 <!--CHAIN:START-->
 | ⛓️ Block | ⛽ Gas | 💎 ETH |
 |:-:|:-:|:-:|
-| `en attente…` | `en attente…` | `en attente…` |
+| `#26300757` | `0.19 gwei` | `$2,316` · `2,072€` |
 
-<sub>⏱️ Premier scan bientôt…</sub>
+<sub>⏱️ Dernier scan : 2026-10-29 20:21 UTC</sub>
 <!--CHAIN:END-->
 
 <br />
