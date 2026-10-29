@@ -93,23 +93,8 @@
 
 ## `> system_stats`
 
-<p align="center">
-  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img height="190" src="https://github-readme-stats-fast.vercel.app/api/?username=mickablondo&layout=compact&hide_border=false&bg_color=0A0A1A&title_color=00F7FF&text_color=E0E0FF&icon_color=FF00E6&border_color=FF00E6" alt="Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mickablondo&layout=compact&bg_color=0A0A1A&title_color=00F7FF&text_color=E0E0FF&border_color=00F7FF" alt="Top Langs" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=mickablondo&background=0A0A1A&stroke=FF00E6&ring=00F7FF&fire=FF00E6&currStreakNum=00F7FF&sideNums=FF00E6&currStreakLabel=00F7FF&sideLabels=E0E0FF&dates=9E9EC8&border=FF00E6" alt="Streak" />
-  </a>
-</p>
-
-<br />
+<!-- Cartes générées par .github/workflows/profile-cards.yml (thème cyberpunk 2077) -->
+<p align="center"> <img height="200" src="./profile-summary-card-output/2077/3-stats.svg" alt="Stats" /> &nbsp; <img height="200" src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most commit language" /> </p> <p align="center"> <img height="200" src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per language" /> &nbsp; <img height="200" src="./profile-summary-card-output/2077/4-productive-time.svg" alt="Productive time" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=mickablondo&background=0A0A1A&stroke=FF00E6&ring=00F7FF&fire=FF00E6&currStreakNum=00F7FF&sideNums=FF00E6&currStreakLabel=00F7FF&sideLabels=E0E0FF&dates=9E9EC8&border=FF00E6" alt="Streak" /> </p> <br />
 
 ## `> contribution_city`
 
