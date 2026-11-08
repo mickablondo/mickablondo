@@ -56,7 +56,7 @@
     </td>
     <td>
       <b>AturKey</b><br />
-      La clé JPA d'Atur pour mettre à jour un objet sans avoir besoin d'un ID<br />
+      C'est pas faux de retrouver une entité sans son id.<br />
       <a href="https://github.com/mickablondo/AturKey">▶ Viens voir Atur !</a>
     </td>
   </tr>
