@@ -50,8 +50,8 @@
   <tr>
     <tr>
     <td align="center" width="140">
-      <a href="https://github.com/mickablondo/AturKey>
-        <img src="https://github.com/user-attachments/assets/7775d827-d68a-40d3-93d0-163f7e0193fa" width="100" alt="Atur a peur" />
+      <a href="https://github.com/mickablondo/AturKey">
+        <img src="https://raw.githubusercontent.com/mickablondo/mickablondo/main/images/icons8-effray%C3%A9-64.png" width="100" alt="Atur a peur" />
       </a>
     </td>
     <td>
