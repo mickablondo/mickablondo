@@ -50,14 +50,14 @@
   <tr>
     <tr>
     <td align="center" width="140">
-      <a href="https://github.com/mickablondo/AturKey">
-        <img src="https://raw.githubusercontent.com/mickablondo/mickablondo/main/images/icons8-effray%C3%A9-64.png" width="100" alt="Atur a peur" />
+      <a href="https://github.com/mickablondo/cartable">
+        <img src="https://github.com/mickablondo/cartable/blob/main/logo_court.svg" width="100" alt="Cartable" />
       </a>
     </td>
     <td>
-      <b>AturKey</b><br />
-      C'est pas faux de retrouver une entité sans son id.<br />
-      <a href="https://github.com/mickablondo/AturKey">▶ Viens voir Atur !</a>
+      <b>Cartable</b><br />
+      Générateur de fiches de révision<br />
+      <a href="https://github.com/mickablondo/cartable">▶ Essayez-le !</a>
     </td>
   </tr>
 </table>
